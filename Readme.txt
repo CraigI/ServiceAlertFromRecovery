@@ -3,7 +3,7 @@ Restarting Serice from Recovery tab using PowerShell script
 PowerShell Script that provides a way to monitor and alert on Windows services when they fail.
 
 
-Please see: http://it-erate.com/restart-windows-service-on-failure-using-powershell-script/ for further details on how to configure this script.
+Please see: http://it-erate.com/restart-windows-service-failure-powershell-script/ for further details on how to configure this script.
 
 
 Main Files
